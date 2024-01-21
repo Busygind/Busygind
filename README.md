@@ -18,6 +18,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin&logoColor=FFA518)
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)
 ![PostgreSQL](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=Postgresql)
 ![Apache Maven](https://img.shields.io/badge/-Apache%20Maven-05122A?style=flat&logo=Apache%20Maven)
