@@ -10,8 +10,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-☕ &nbsp;I've been doing Java development for 3 years\
-🎓 &nbsp;I study software engineering at the ITMO University, Saint-Petersburg\
+☕ &nbsp;I've been doing Java/Kotlin development for 5 years\
+🎓 &nbsp;I have a software engineering bachelor's degree from ITMO University, Saint-Petersburg\
 🏐 &nbsp;I'm a semi-professional volleyball player.\
 💬 &nbsp;Ask me about anything in [telegram](https://t.me/dmirtyb02)
 
